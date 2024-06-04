@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PCB_Project_Transmit_Stend_ver0.0.1.PrjPcb
+[Project2]
+ProjectPath=..\PCB_Project_Transmit_Stend_1\PCB_Project_Transmit_Stend.PrjPcb

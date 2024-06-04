@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project_Transmit_Stend_ver0.0.1.PrjPcb]
+   Generated File[PPM_ver0.0.1-Plated.TXT]
+   Generated File[PPM_ver0.0.1.LDP]
+   Generated File[PPM_ver0.0.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:01:22 On 16.05.2024
